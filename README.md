@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJReal
-- 👀 I’m interested in the arts, design, fishing, food, entertainment, excercise and outdoor activites and learning web dev'
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on web related projects
+- 👀 I’m interested in the arts, design and learning.
+- 🌱 I like making coded projects.
+  
 - 📫 How to reach me jameso.real@gmail.com
 
 <!---
